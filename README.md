@@ -4,7 +4,7 @@
 React를 이용한 to do list 사이트입니다.
 
 ## 🕰️ 개발 기간
-* 23.06.12 - 23.06.16a
+* 23.06.12 - 23.06.16
 
 ## 🎬 페이지 스크린샷
 <img width="848" alt="my-todo-list-page" src="https://github.com/nna-na/my-todo-list/assets/133615677/a3bfebec-37e9-4de7-8232-3203ccd6f3f4">
