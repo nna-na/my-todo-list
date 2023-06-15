@@ -18,5 +18,5 @@ React를 활용한 to do list 사이트입니다.
 
 ## 📌 주요 기능
 - App.jsx : 전체 레이아웃, To do list의 추가, 완료, 삭제 관리
-- Todo.jsx : 렌더링, 완료 및 삭제 기능 처리
+- Todo.jsx : 객체 렌더링, 완료 및 삭제 기능 처리
 - Button.jsx : 추가 버튼을 렌더링, 클릭 이벤트 처리
