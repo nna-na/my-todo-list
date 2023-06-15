@@ -1,7 +1,7 @@
 # my-todo-list
 
 ## 🖥️ 프로젝트 소개
-React를 이용한 to do list 사이트입니다.
+React를 사용한 to do list 사이트입니다.
 
 ## 사이트 주소
 https://my-todo-list-gamma-six.vercel.app/
