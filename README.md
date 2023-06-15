@@ -4,7 +4,7 @@
 React를 활용한 to do list 사이트입니다.
 
 ## 사이트 주소
-https://my-todo-list-gamma-six.vercel.app/
+my-todo-list-nna-na.vercel.app
 
 ## 🕰️ 개발 기간
 * 23.06.12 - 23.06.16
